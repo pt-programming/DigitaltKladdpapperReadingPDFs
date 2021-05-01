@@ -1,0 +1,11 @@
+*.user
+/.vs
+obj
+bin
+BUILD
+*.bak
+*.orig
+
+/ProTendering.Wpf/Properties/Settings.Designer.cs
+/ProTendering.Core/Properties/Settings.Designer.cs
+*.DotSettings

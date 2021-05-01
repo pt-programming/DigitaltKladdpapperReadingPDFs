@@ -1,0 +1,916 @@
+﻿Reading Pdf ...
+Dokument-titel = TEST DOCUMENT
+Dokument-header = TEST
+Dokument-footer = None
+Dokument-bredd = 612
+Dokument-höjd = 792
+---------------------------
+De 200 första paragraferna:
+---------------------------
+
+Paragraf nr1:
+TEST DOCUMENT Complex demand specification for the
+ProTendering
+Spaceship medium voltage switchgear
+
+Paragraf nr2:
+TEST
+
+Paragraf nr3:
+SUMMARY
+
+Paragraf nr4:
+This technical specification describes the general requirements for delivery of Medium Voltage
+Switchgears required for execution of the exchange of the Medium Voltage system at Spaceship
+ProTendering.
+
+Paragraf nr5:
+The new Switchgear shall replace existing Switchgears taking into account the limitations set by the
+spaceship conditions. 2
+
+Paragraf nr6:
+TEST
+
+Paragraf nr7:
+TABLE OF CONTENTS
+
+Paragraf nr8:
+1. B
+
+Paragraf nr9:
+2 2
+
+Paragraf nr10:
+TEST
+
+Paragraf nr11:
+2.3.6
+Classification and Separation ........................................................................................................... 15
+2.3.7
+Interlocking ........................................................................................................................................ 15
+2.3.8
+Arresters ............................................................................................................................................. 15
+2.3.9
+Earthing switches............................................................................................................................... 16
+2.3.10
+Breakers and withdrawable units .................................................................................................... 16
+2.3.11
+Cable connections ............................................................................................................................. 18
+2.3.12
+Protective current path ..................................................................................................................... 18
+2.3.13
+Marking/Labeling............................................................................................................................... 18
+2.3.14
+Wiring and connections ..................................................................................................................... 19
+2.3.15
+HSI/MIMIC .......................................................................................................................................... 20
+2.3.16
+Voltage transformers ........................................................................................................................ 20
+2.3.17
+Cable current transformers ............................................................................................................... 21
+2.3.18
+Current transformers ......................................................................................................................... 21
+Documentation and shop drawings ............................................................................................................ 21
+Functions in switchgear units ..................................................................................................................... 22
+Operation and maintenance ....................................................................................................................... 22
+Service intervals ................................................................................................................................. 22
+Tools and accessories ........................................................................................................................ 22
+Service guidelines .............................................................................................................................. 22
+Components ................................................................................................................................................ 23
+Auxiliary relays ................................................................................................................................... 23
+Display instruments ........................................................................................................................... 23
+Terminal blocks .................................................................................................................................. 23
+Switchgears ........................................................................................................................................ 23
+ACCEPTANCE CHECKS AND TESTS ............................................................................................................... 23 2.4
+2.5
+2.6
+2.6.1
+2.6.2
+2.6.3
+2.7
+2.7.1
+2.7.2
+2.7.3
+2.7.4
+2.8 4
+
+Paragraf nr12:
+1. Background
+
+Paragraf nr13:
+The ProTendering Space ship consists of two interconnected rockets, ProTendering A and B
+and the existing Medium Voltage switchgear and relay protection system is original since
+the ship was built 1995 and in need of replacement. The project XYZ will replace existing
+switchgear and relay protection system for the two units with modern equipment. The present specification shall apply to ProTendering unit A and B, abbreviated as ProA and
+ProB in this document.
+
+Paragraf nr14:
+1.1 D
+
+Paragraf nr15:
+The Medium Voltage system at each unit consists of 8 switchgears, in total 16 switchgear for
+the two units combined. The ship diagram for PROA, provides an overview of the present design of the electrical
+system. The same diagram can be used for PROB. 6 of these switchgear have a safety
+function and the rest are non-safety. Non safety switchgear are:
+Start-up Switchgear:
+
+Paragraf nr16:
+?
+? X Ordinary operation switchgear
+
+Paragraf nr17:
+?
+?
+?
+
+Paragraf nr18:
+XX5, XX6
+XX7, XX8
+XX9, XX10 The following switchgear are safety switchgear:
+Diesel-secured Switchgear
+
+Paragraf nr19:
+?
+XX11, XX12
+?
+XX13, XX14
+?
+XX15, XX16
+The number of panels and type of each panel that is part of the scope and delivery is
+described in section 2.6.4.
+
+Paragraf nr20:
+The relay protection system for the Medium Voltage system is located in separate relay
+rooms. The relay protection system will be kept in the relay rooms for the modernization and
+they are handled in a separate Technical Specification. Particulars of the system is described in the teable below. Particulars of the system (not equipment rating)
+
+Paragraf nr21:
+Frequency 6
+
+Paragraf nr22:
+Nominal Voltage 8,2 kV N Resistance earthed (up to 18 A earth fault current) for 10
+seconds after an earth-fault, then isolated.
+
+Paragraf nr23:
+1.2
+
+Paragraf nr24:
+Abbreviations T
+
+Paragraf nr25:
+ M  M 2 T
+
+Paragraf nr26:
+The equipment shall comply with the requirements in this document and referenced
+standards. In the event of conflicting requirements in different documents or within the
+technical specification, the Supplier shall inform the Purchaser for review and clarification of
+the requirements.
+
+Paragraf nr27:
+If any obvious errors are found within the technical specification (for
+example errors in a
+Type circuit), the Supplier shall inform the Purchaser for review and clarification. 2.1 G
+
+Paragraf nr28:
+2.1.1 A
+
+Paragraf nr29:
+All equipment shall be designed and manufactured to the latest revision of the standards and
+specifications except where specifically defined otherwise.
+
+Paragraf nr30:
+The Supplier shall specify standards to which the product/delivery conforms. 2.1.1.1 A
+
+Paragraf nr31:
+C37.20.4.................................IEEE Standard for Indoor AC Switches (1kV-38kV) for Use in
+Metal-enclosed Switchgear C37.22....................................American National Standard Preferred Ratings and Related
+Required Capabilities for Indoor AC Medium-Voltage
+Switches Used in Metal-Enclosed Switchgear C37.47....................................Medium voltage Current-Limiting Type Distribution Class
+Fuses and Fuse Disconnecting Switches C37.55....................................Switchgear-Metal-Clad Switchgear AssembliesConformance
+Test Procedures C37.57....................................Switchgear-Metal-Enclosed Interrupter Switchgear
+Assemblies Conformance Testing C37.85....................................Switchgear-Alternating-Current High-Voltage Power Vacuum
+Interrupters-Safety Requirements for X-Radiation Limits C39.1......................................Electrical Analog Indicating Instruments, Requirements for 2.1.1.2 I C37.09....................................Standard Test Procedure for AC High-Voltage Power Circuit
+Breakers Rated on a Symmetrical Current Basis 6
+
+Paragraf nr32:
+C37.20.2.................................Standard for Metal-Clad Switchgear
+
+Paragraf nr33:
+C37.48....................................Guide for Application, Operation and Maintenance of
+Medium voltage Fuses, Distribution Enclosed Single Pole Air
+Switches, Fuse Disconnection Switches and Accessories C37.90....................................Standard for Relays and Relay Systems Associated with
+Electric Power Apparatus C57.13-93........... Standard Requirements for Instrument Transformers
+
+Paragraf nr34:
+2.1.2 C
+
+Paragraf nr35:
+Listed below are relevant and significant documents applicable for the delivery of the
+equipment covered by this technical specification. ProT requirements are valid for electrical
+equipment and instruments and shall be applied, although some of the more important aspects
+are listed in this technical specification.
+
+Paragraf nr36:
+It is the requirements in the technical specification that will be graded and reviewed for
+assessment. Requirements specified in the technical specification (this document) shall supersede
+requirements in ProT-xxx when they are in disagreement, unless there is an obvious error in
+the technical specification. ProT-2100 G
+
+Paragraf nr37:
+ProT-400 E ProT-3000 P T ProT-666 P P 2.1.3 M H
+
+Paragraf nr38:
+Components shall not emit corrosive gases when used in normal or extreme operation. The amount of corrosive gases emitted in case of fire and documentation on fire-load should
+(important) be reported by the Supplier in the tender. Materials in contact elements, connectors and components shall be chosen so that corrosion
+or oxidation does not occur. Silver used as a contact material, silver-plated surfaces on
+components or silver as a barrier layer under gold- plating may not be used without explicit
+approval of the Purchaser. 7 2.1.4
+
+Paragraf nr39:
+Standardization & Reliability T
+
+Paragraf nr40:
+The Supplier should (very) provide MTBF figures for the main components of the
+switchgear. The Supplier should (less) provide MTTR figures for the main components of the switchgear. 2.1.5 V
+
+Paragraf nr41:
+For DC-operated devices the product shall conform to specified requirements on function
+and accuracy within variations in voltage between 85-110% continuously. See also PROT-
+101 for further requirements regarding voltage and frequency.
+
+Paragraf nr42:
+2.1.6 G
+
+Paragraf nr43:
+Electric circuit that have galvanic isolation from other circuits or earth shall have a dielectric
+strength of at least 2 kV for components and 2.5 kV for cables.
+
+Paragraf nr44:
+The insulation resistance shall be minimum 100 Mohm. See also section 2.3.6 2.1.7 C
+
+Paragraf nr45:
+The control and monitoring interface shall be 110 VDC.
+
+Paragraf nr46:
+2.1.8 A
+
+Paragraf nr47:
+Motor-operated devices shall use 110 V DC auxiliary power.
+
+Paragraf nr48:
+2.1.9 D T The Supplier should (very) present an analysis of product life based on the long-term
+characteristics of any polymeric materials that are essential for its function and environmental
+protection. The analysis should (very) include material specifications and the thermal long-
+term properties of the material. If periodic maintenance and replacement of parts is required to maintain the design life this
+shall be specified in the Tender and included in the documentation for the delivery. Design
+life for replaceable parts shall not be less than 5 years and shall be available for delivery for
+25 years. 2.1.10 General design criteria
+A. The switchgear shall be in accordance with NEMA SG-4, IEEE C37.20.2,
+applicable UL and CSA standards and listings and the National Electrical Code as
+minimum requirements, and shall be as shown on the drawings and as specified.
+B. Indicating instruments shall be in accordance with ANSI C39.1
+C. Relays and relay systems shall be in accordance with IEEE C37.90.
+D. Instrument transformers shall be in accordance with IEEE C57.13.
+The switchgear line-up shall be a complete, grounded, continuous-duty, metal
+clad, dead-front, dead-rear, self-supporting, front connected switchgear assembly.
+Incorporate devices shown on the drawings and everything required to fulfill the
+operational and other requirements shown on the drawings. E. 8 F. Switchgear shall conform to the arrangements and details of the drawings and
+space designed for installation.
+G. Interlocking shall be provided as shown on the drawings and as required for the
+safety of personnel and safe operation of the equipment. 2.1.11 FACTORY TESTS
+
+Paragraf nr49:
+2.1.11.1 Test of electrical and mechanical defects
+
+Paragraf nr50:
+Medium voltage switchgear shall be thoroughly tested at the factory to assure that there are
+no electrical or mechanical defects. Tests shall be conducted as per UL, ANSI and CSA
+Standards.
+
+Paragraf nr51:
+2.1.11.2 Tests of circuit breakers
+
+Paragraf nr52:
+Thoroughly test the switchgear at the factory with the circuit breakers in the connected
+position in their cubicles. The factory tests shall be in accordance with IEEE C37.09. The
+factory tests hall include the following tests:
+
+Paragraf nr53:
+1. D 2. P 2.2 B
+
+Paragraf nr54:
+The panels are intended to be transported into the electrical rooms individually and bolted
+nd
+
+Paragraf nr55:
+th
+and 4 floor. t 2.2.1 T
+
+Paragraf nr56:
+The Switchgear shall be possible to transport into the electrical rooms. The Supplier shall
+state the minimum required dimensions of doors etc. for transporting the panels into the
+electrical rooms, both upright and lying down.
+
+Paragraf nr57:
+It should (considerably) be possible to transport the panels lying down. It is acceptable if the
+switching device is transported separately as the time for transporting the panels into the
+electrical rooms is not critical. 2.2.2 S
+
+Paragraf nr58:
+The Switchgear shall be mounted on skids, for easy installation and replacement. The
+Supplier shall state the minimum required weight that lifting equipment need to be designed
+for.
+
+Paragraf nr59:
+2.2.2.1 L To facilitate transport and handling the cubicles should (very) be provided with a sufficient
+number of lifting eyes or lifting eye fasteners. 2.2.3 I
+
+Paragraf nr60:
+The Supplier shall describe the minimum requirements regarding positioning from walls etc.
+
+Paragraf nr61:
+There are also restrictions with regards to height. The inner roof of the room used for pressure
+relief of existing switchgears is 2.70 m high above the floor where the existing switchgears
+are placed. There is however ample room height wise in other parts of the room to mount 9 pressure relief hatches etc. It should (considerably) therefore be possible to slide into position and bolt together the
+panels (including pressure relief system) with a room height of 2.70 m. It shall be possible to slide into position and bolt together the panels (including pressure relief
+system) with a room height of 2.85 m (maximum permissible height if the inner roof is
+removed). The electrical rooms have concrete floors. The Supplier shall describe the requirements of the
+switchgear floors in terms of tolerances etc. so that the Purchaser can prepare the floor
+accordingly before installation. 2.2.3.1 C
+
+Paragraf nr62:
+The Medium Voltage and earthing cables enter the existing switchgear through penetrations
+in the floor. Existing switchgear are 900 mm wide(cable cubicle) and 600 mm wide (breaker
+cubicle), i.e. the penetrations generally come 600 mm apart. Due to the structural integrity of
+the building and seismic requirements it is desirable to minimize the number of new floor
+penetrations. New floor penetrations will be required for four of the switchgears as these will
+not be installed in their existing location, otherwise the intention is to re-use the existing
+penetrations as far as possible.
+
+Paragraf nr63:
+The Supplier shall specify the recommended dimensions and placement for penetrations
+required for easy installation. The Supplier should (important) also specify if spacers (and width of spacers) and/or if empty
+cubicles can be used for a better fit. 2.2.3.2 P
+
+Paragraf nr64:
+The Supplier shall propose a suitable solution for pressure relief.
+
+Paragraf nr65:
+The Purchaser can take up new wall penetrations to the outside and there are existing wall
+penetrations that may be used to some extent. The Supplier shall specify in co-operation with the Purchaser how many new wall
+penetrations are required and their placement. There are limitations due to the structural integrity of the building during earthquake that
+limits the amount of new wall penetrations. Therefore the final solution shall be decided in
+co-operation between the Supplier and Purchaser. Four switchgears will be placed in rooms without access to outer walls (one switchgear in
+each room). In this room there is however a pressure relief duct situated above existing
+switchgears leading up to the roof of the building that can be utilized. If drawings are required for the tender they can be delivered upon request. Pressure relief hatches shall be included and they shall be designed for fire protection IE60
+according to BBR (Boverkets Byggregler). The dimensions of existing penetrations (not the
+duct) are about 1000X500 mm. 2.2.4 S
+
+Paragraf nr66:
+All Switchgears will be installed in normal electrical rooms and shall therefore fulfill the
+requirements for severity level I as specified in ProT-111.
+
+Paragraf nr67:
+The Supplier should (important) in addition also state the effect of affected temperature
+(derating of nominal current etc.) for room temperatures up to 55 degrees Celsius. 10 2.2.5
+
+Paragraf nr68:
+EMC I
+
+Paragraf nr69:
+The equipment shall fulfill the design requirements of ProT-666. 2.2.6 S
+
+Paragraf nr70:
+The safety related Medium Voltage Switchgear shall be designed to withstand vibration,
+shake and shock at dockings and landings, with full operation up to vibration and shock
+corresponding with a spectrum up to 5 on the Richter scale.
+
+Paragraf nr71:
+Safety related Medium Voltage Switchgear shall be designed for Safe Shutdown, for shock
+and vibration above the design criteria of 5 on the Richter scale. The Medium Voltage Switchgear shall be designed for restart and full operability after
+vibration and shock criteria corresponding to 6,5 on the Richter scale, without any loss of
+function. The safety related switchgear shall be tested for full operation with the spectrum up to 5 on
+the Richter scale both vertically and horizontally. The safety related switchgear shall be
+tested for successful shut down above restart with the spectrum 5-6,5 on the Richter scale
+both vertically and horizontally. The panels used for test can be part of the delivery but only
+for training of personnel on-ship. 2.2.7 B T The Supplier shall submit a complete report of the Suppliers verification and seismic
+qualification including all calculations, analyses, and background data before delivery of the
+Switchgears. A solution to anchor these switchgears shall be decided in co-operation with the Supplier and
+the Purchaser. The Supplier shall submit the drawings and dimensions, showing the
+placement, number, and dimensions of possible anchoring bolts for review. 2.3 S 2
+
+Paragraf nr72:
+Single line diagram
+
+Paragraf nr73:
+A single line diagram showing the properties of each switchgear is enclosed in attachment B.
+
+Paragraf nr74:
+Tables showing the main components in each panel and associated Type circuit, proposed
+breaker size etc. is listed in section 2.6.4. 2.3.2 G S An arc in a cable-, breaker- or bus bar cell shall not be permitted to propagate to other cells or
+compartments in the switchgear row. 11 Verification of arc safety shall be addressed in the proposal and shall fulfill IAC AFLR 50 kA
+1 s. It shall be supported by test results complying to IEC 62271-200.
+The switchgear shall be prefabricated, full metal-clad cellular Switchgear for Medium
+Voltage with withdrawable circuit breakers of truck or cassette type. Cubicle cases, doors,
+tops, back-plates and other mechanical parts shall be made of shaped sheet steel in a manner
+to achieve satisfactory mechanical strength. 2.3.3
+Equipment Ratings
+The rated voltage shall be 12 kV. Number of phases shall be three.
+Power frequency withstand voltage 60 Hz - 1 min (rms kV) shall be 28 kV.
+Lightning impulse withstand voltage 1.2/50 µs (kV peak) shall be 75 kV.
+Rated short-time withstand current shall be 40 kA for both Main circuit and Earthing circuit.
+Rated peak withstand current shall be 100 kA for both Main circuit and Earthing circuit.
+Rated duration of short circuit shall be 2 s for both Main and Earthing circuit.
+Rated normal current for Incomer and busbar to XX1, XX2, XX3, XX4, XX5, XX6, XX7,
+XX8, XX9, XX10 shall be at least 2000 A.
+Rated normal current for Incomer and busbar to XX11, XX12, XX13, XX14, XX15, XX16
+shall be at least 1000 A.
+Rated normal current for other breakers shall be based on the details given in attachment D.
+Internal Arc Classification shall be 40 kA 1 s AFLR.
+Internal Arc Classification specified shall be supported by tests results complying with IEC
+62271-200. 2.3.4 M
+
+Paragraf nr75:
+2.3.4.1 P
+
+Paragraf nr76:
+The bus and bus compartment shall be designed and tested so that the acceptable NEMA,
+ANSI, UL and CSA standard temperature rises are not exceeded.
+The switchgear shall be prefabricated, full metal-clad cellular Switchgear for Medium
+Voltage with withdrawable circuit breakers of cassette or truck type.
+Bus bars should be provided with silver plated copper buses, fully rated and tested for the
+amperage shown on the drawings.
+Bus bars should fully insulate and totally enclose the buses within the bus compartment of the
+switchgear.
+Interconnections should be mounted the buses on appropriately spaced insulators and brace to
+withstand the available short circuit currents.
+A ground bus should be installed in the full length of the switchgear assembly.
+The insulation shall be a 15 kV rated, high flame-retardant, self-extinguishing, high track
+resistant epoxy material that complies with the NEMA Standard 65 degree C temperature
+rise. The insultation should further comply with NEMA Standard 90 degree C temperature
+rice.
+The switchgear shall as a minimum conform to PXA2.
+
+Paragraf nr77:
+12 The switchgear should (very) conform to PXA3, i.e with separate cable compartment, busbar
+compartment, withdrawable part compartment and low voltage compartment.
+Accessibility for the Cable compartment should (important) be interlock based.
+Accessibility for the Circuit breaker compartment should (important) be interlock based.
+Accessibility for the Busbar compartment should (important) be interlock or tool based.
+All interlock-based compartments shall be possible to bypass using tools or by other means.
+If special tools are required these shall be part of the delivery. The Supplier should (less) state
+how this task is performed.
+Cubicle cases, doors, tops, back-plates and other mechanical parts should (important) be
+made of shaped sheet steel in a manner to achieve satisfactory mechanical strength.
+The switchgear shall be partition class PM.
+The switchgear shall be modular and extendable.
+The switchgear should (very) have natural ventilation.
+Cables should (considerably) be accessible from the front of the panel.
+The Supplier shall present the design, contents and technical data for each type of cell, and
+also all the fittings and fixtures required to produce a complete switchgear system. The
+information shall also show dimensions, weights and power losses. 2.3.4.2
+Surface treatment
+The switchgear parts shall be surface-treated according to the Suppliers standard.
+All metal surfaces shall be thoroughly cleaned, phosphatized and finished using a power coat
+system tested to at least 3000 hours for salt spray resistance.
+All metal surfaces should be provided in a light gray or other suitable standard factory finish
+for the switchgear.
+The cutouts in the low voltage compartment should be fully painted after punching the low
+voltage compartment door, or by other solution securing that no surface damage occure
+during installation.
+The Contractor should (less) specify its surface-treatment process and which corrosion class
+it fulfills.
+Any touch up painting of cell front panels shall be permitted if it can be done so that the
+result is satisfactory to Purchaser approval. Otherwise, the entire damaged front section shall
+be repainted.
+The color should (less) be light-grey (RAL 7035) or similar.
+Mickey Mouse shall be printed on inside of each rack.
+Donald Duck should be printed on outside of each rack.
+Protection/Enclosure class
+2.3.4.3
+The cellular design shall provide good personal safety during maintenance work.
+The IP 2x requirements for protection from contact should (important) also apply for
+apparatus that can or must be reset or operated with a low-voltage section open.
+Preferably IP31 as defined by IEC 60259 should (less) apply for switchgear front panels.
+Protection class IP 2x as defined by IEC 60259 shall be met in association with removed
+breaker as well as open door to a cable cell. 13 The Supplier should (less) state all relevant IP classification for their standard solution that
+they propose. A minimum of IP 21 as defined by IEC 60259 shall apply for switchgear panels (closed
+door). For other servicing, e.g. retightening, protective covers should (important) be easily
+removable. All shielding should (important) be arranged so as not to unnecessarily make maintenance
+and servicing more difficult. Fasteners for shields should (very) be reliable, so that they cannot loosen, become bent or
+become displaced during normal operation and normal installation. Components for measuring and monitoring, etc. should (very) be located so that
+replacement/servicing can take place without cutting off the voltage for the busbar. The Supplier should (less) state all relevant IP classification for their standard solution that
+they propose. 2.3.4.4 B
+
+Paragraf nr78:
+The busbar shall be made of copper.
+
+Paragraf nr79:
+The busbar should (less) be flat and identical between each cubicle. Insulators should (very)
+not be made of ceramic materials. Retightening and inspection of bolted joints in bus trains should (important) be possible. 2.3.5 A
+
+Paragraf nr80:
+The Switchgear shall be equipped with a reliable and efficient arc-guard system that monitors
+each compartment where arcing may occur.
+
+Paragraf nr81:
+The arc-guard system should (very) be able to react, break and extinguish the arc in less than
+100 ms. The arc guard system shall be designed with special consideration to prevent spurious
+triggering. It may not trigger due to EMC, vibration (including earthquake when mounted in a
+panel, when the panel is subjected to the SL2 spectra vertically or horizontally as defined in
+EXZ2) or for accidental touch etc. The SL6 spectra shall be used for qualification when not
+mounted in a panel. The Supplier should (very) state if there are any risks or previous cases with spurious
+triggering associated with the proposed arc-guard system and/or the means the Supplier has
+taken to prevent spurious triggering. Especially if light is used as the primary means of detection (but also for other methods) it
+should (very) be possible to combine it with a current threshold to mitigate the risk of
+spurious triggering. The current threshold should (important) be possible to set individually
+for the different incomers to the Switchgear. If light is proposed as means of detection, the light intensity should (less) be at least 3000
+lumen to trigger the system. Furthermore, it shall be possible to prevent tripping of the whole busbar with an external
+signal(s). The arc-guard system, including sensors, should (important) be testable. No calibration of the
+system should (less) be required after installation. It should (important) be possible to identify which cell/panel triggered the arc-guard system. 14 It should (less) be possible to receive a timestamp on when the arc occurred. Ultra-Fast-
+Earthing-Switches shall not be used on safety related Switchgear. 2.3.6
+
+Paragraf nr82:
+Classification and Separation T
+
+Paragraf nr83:
+The Switchgears XX1, XX10are designated as non-safety. However, the breaker position
+indication for breakers feeding WYWX3 shall be designated as 1E as they provide signals to
+the reactor protection system. Furthermore the measurements from the X-L voltage transformers to the reactor protection
+shall be 1E. The two X-L voltage transformers shall also be separated as they feed redundant
+parts of the reactor protection belonging to different electrical subs. Vertically mounted terminal blocks for external cables shall be separated with a minimum
+distance of 15.2 cm between terminal blocks for 1E and 2E signals. This separation shall also
+be kept for signals from different electrical subs. The distance may be reduced to 5 cm if the
+cables are fixed with steel clips (or similar) with a spacing no more than 20 cm between
+clips. The standard IEEE 384: Standard Criteria for Independence of Class 1E Equipment and
+Circuits shall be applied for separation of 1E (safety) and 2E (non-safety) circuits. Mounting of terminal blocks for external cables/signals shall be done with a physical
+separation between terminal blocks for 1E and 2E signals. Horizontally mounted terminal
+blocks shall be separated with a minimum of 2.5 cm between 1E and 2E terminal blocks. This
+separation shall also be kept for signals from different electrical subs. 2.3.7 I
+
+Paragraf nr84:
+Withdrawable unit positions and earthing-switches positions should (considerably) be
+lockable and should be able to be provided with the requisite labelling even when the
+Switchgear apparatus/holder has been removed.
+
+Paragraf nr85:
+Equipment feeded from the Switchgear should (very) have a visible disconnection point or
+voltage detection system to verify safe isolation of the busbar or feeder. Withdrawable units shall have a reliable interlocking device preventing that the unit can be
+CONNECTED or DISCONNECTED with the switching device on. All incoming and outgoing units should (very) be possible to DISCONNECT and lock in
+DISCONNECTED position. Reliable position indication of withdrawable units shall comply with regulations in ELSÄK-
+FS 2008:1. Feeder earthing switches shall only be possible to operate with switching device in
+DISCONNECTED position. Similarly it shall not be possible to CONNECT the switching
+device when the earthing switch is CLOSED. Electrical interlocks between switchgears shall be possible so that a
+switching device
+feeding another switchgear cannot be CONNECTED when the busbar it feeds is earthed. 2.3.8 A E 15 The arresters shall handle temporary overvoltage to earth for one phase earth faults.
+The arresters should (important) have counters that count each time the arrester is activated.
+If possible arresters should (very) also be installed in the incoming cubicles on the cable side. 2.3.9
+Earthing switches
+All necessary equipment for earthing shall be permanently installed, operable from the front
+of the panel with closed door and able to withstand the full short-circuit current.
+Permanently installed earth-switches shall be installed for all breaker cubicles on the cable
+side.
+Permanently installed earth-switches for the busbar should (important) be installed in the
+measurement cubicle.
+The earth-switches ability to withstand the highest ground current/short- circuit current
+should (very) be verified with a type test.
+The earth-switch for a busbar shall be interlocked so that earthing is not possible if any input
+switching device is CONNECTED.
+The earth-switch for a busbar shall also be possible to interlock so that no input switching
+device can be CONNECTED if the earthing switch is CLOSED. 2.3.10 Breakers and withdrawable units
+Circuit breakers shall be of a withdrawable design and necessary trolleys (one per switchgear)
+or similar to move breakers outside the panel shall be included in the tender.
+If the Supplier has special service tables for breakers these shall be offered as an option.
+Circuit breakers shall have a making capacity of 110 kA and a breaking capacity of 30 kA.
+The maximum expected Breaking time should (very) be less than or equal to 70 ms.
+The maximum expected Breaking time shall be less than 90 ms.
+In general the maximum expected Closing time should (very) be less than or equal to 150 ms.
+In general the maximum expected Closing time shall be less than 170 ms.
+Incoming breakers to WES shall have an expected Closing time less or equal to 110 ms.
+Incoming breakers to SEW should have an expected Closing time less or equal to 95 ms.
+The circuit breaker should (important) be designed with at least class M1 as defined by IEC
+62771-100 and have an endurance of 2,000 cycles up to and including rated normal current
+and 100 operations at rated short-circuit breaking current.
+The circuit breaker should (important) be designed with class E2 as defined by IEC 62771-
+100.
+The circuit breaker should (important) be designed with class C2 as defined by IEC 62771-
+100.
+There should (considerably) be provisions that prevents installing or CONNECTING the
+wrong breaker size (rating) during replacement or reinstallation.
+When proposing a breaker solution, the Supplier shall take into account that the main part of
+the breakers are feeding motors or transformers. Some with aged insulation. The Supplier
+shall therefore propose, if necessary, a suitable solution to mitigate the effects of switching
+overvoltage's by means of surge limiter, R/C filters or similar if vacuum or other types of 16 breakers are offered. The Purchaser can provide general motor data for all motors but does
+not have access to the full equivalent circuit data for all motors. If SF6 is proposed as breaking medium the breakers shall be "sealed-for- life". The Supplier
+shall also state if there have been any incidents with leakage of SF6 in the past for the
+proposed breaker. If there have been leaks the Supplier shall state what has been done to
+remedy the leakages. The DISCONNECTED position shall have a reliable position indication, a locking capability
+and labelling that meets the requirements of ELSÄK-FS 2008:1 (Swedish National Electrical
+Safety Board). It should (very) be possible to withdraw the breaker when the switching device is
+DISCONNECTED and locked. There shall be interlocks between the holder position and breaker that guarantee that, for
+example, a breaker in position ON, cannot be DISCONNECTED or CONNECTED. It shall be possible to CLOSE the breaker in disconnected (test) position. Closing the circuit
+breaker should (very) be possible by means of a mechanical pushbutton (or similar) on the
+front of the panel. Tripping of the circuit breaker shall be possible by means of a mechanical pushbutton (or
+similar) on the front of the panel. The Circuit breakers shall have motor-operated spring charging and the stored energy shall
+be sufficient for at least one OPEN-CLOSE-OPEN cycle. It should (very) be possible to
+manually charge the springs using a crank/handle or similar from the front of the panel. The circuit breaker shall be equipped with an anti-pump function. The number of breaker sizes offered should (very) be kept low taking into account the rating
+of the different feeders to facilitate keeping reserves on site. The breakers should (very) not need forced ventilation. 2.3.10.1 Features for breakers Draw out, vacuum interrupter type, UL and cUL / CSA listed.
+
+Paragraf nr86:
+There should be three independent sealed high vacuum interrupters contained within epoxy
+encapsulated poles for high reliability.
+
+Paragraf nr87:
+Breaker should meet total interrupting time of 3 cycles. Suitable contacts should allow for a minimum of 50,000 no load or light load operations
+without intermediate maintenance. Contact surfaces should be made of special chrome-copper alloys or equivalent to reduce
+effect of chopping. Vacuum interrupters shall meet the safety requirements of ANSI C37.85. 2.3.10.2 Operating mechanism
+
+Paragraf nr88:
+The mechanism shall operate in a quick-make, quick-break manner.
+
+Paragraf nr89:
+The mechanism shall be operated by a linear magnetic operator. Breaker tripping, closing,
+and indicating lamps shall be AC or DC operated. The speed of the contacts during the operation should be independent of the control voltage
+and the operator's movements. The mechanism should be equiped for manual opening of the contacts during loss of normal
+control power. 17 2.3.10.3 Multifunction Digital-Metering Monitor
+
+Paragraf nr90:
+Microprocessor-based unit suitable for three- or four-wire systems, shall have inputs from
+sensors or 5-A current-transformer secondaries, and potential terminals rated to 600 V.
+
+Paragraf nr91:
+For Switch-selectable digital display shall in all cases meet the minimum criteria of each
+should demand as of below. Further demands:  P
+
+Paragraf nr92:
+ P  P  T  T  P 2.3.11 Cable connections
+
+Paragraf nr93:
+Medium voltage and earthing cables enter the switchgear through penetrations in the floor.
+Low voltage power and signal cables will be dropped down from cable ladders above or
+placed directly on top of the panels until the final switchgear has been replaced.
+
+Paragraf nr94:
+The cable cell should (important) have reliable fixings for cables so that the connections do
+not carry the load of the cable's weight.
+
+Paragraf nr95:
+For external control cables, there should (important) be a separate cable conduit in which all
+the control cables can be installed.
+
+Paragraf nr96:
+Protective conductors should (important) be connected by cable terminals to
+a bus for a
+protective grounding connection located adjacent to the terminal block cluster. Protective
+conductors should (important) be connected directly adjacent to the cable connection device,
+and each protective conductor should have a separate screw. The Supplier should (important) propose a technical solution to mitigate consequences of
+peak current forces at the cable termination area. The Supplier shall verify whether dedicated Cable panels are required, the largest cable
+dimension/number of cables is 3 // FXKJ 1x500+35/phase. 2.3.12 Protective current path
+
+Paragraf nr97:
+The ability of the protective current paths to withstand the highest ground current that occurs
+shall be verified. Also, that permanently low resistance is maintained.
+
+Paragraf nr98:
+Protective conductors shall be marked "PE".
+
+Paragraf nr99:
+The joining together of metal components in a FBA (factory-manufactured connection
+equipment can be regarded as providing a reliable connection in
+a protective current path, if
+the design ensures permanent sufficient conductivity and ability with respect to current load
+to withstand the ground fault current that can flow in the FBA.
+
+Paragraf nr100:
+The design of connections for protective current paths shall be an easy, safe and easy to
+understand wiring/installation. 2.3.13 Marking/Labeling A uniform design for label text shall be aimed at. The Supplier shall present a design that
+fulfills the intent of the requirements described below. All labeling shall be approved by the
+Purchaser. 18 In-ship identification marking shall be conducted by the Supplier according to instructions
+from the Purchaser. 2.3.13.1 Exterior labelling
+
+Paragraf nr101:
+All exterior labels/nameplates should (important) be screwed on and made of aluminium with
+black engraved text.
+
+Paragraf nr102:
+All switchgear cells shall be provided with banner labels/nameplates, information labels and
+designation labels, plus labels at control devices, earth-switches etc. Basis for designation labelling will be provided by the Purchaser. The method of position
+marking of all devices and units shall be demonstrated by the Supplier for approval by the
+Purchaser. 2.3.13.2 Interior labelling, component marking
+
+Paragraf nr103:
+For each component, there shall be labelling/marking that identifies the component, and that
+shall be found in the drawing documentation.
+
+Paragraf nr104:
+Terminals shall be labelled on every component. Relevant components shall be provided with easy to read and durable marking plates or other
+types of durable marking to enable identification following installation and to facilitate
+operation, inspection and maintenance. Rating plates for components such as current- and
+voltage transformers should (less) be mounted so they are clearly visible after installation. Marking signs shall be written in English, Hindi or Swedish and the data stated shall follow
+international standard designations. The marking shall include type designation,
+Manufacturer and individual number (such as serial number or equivalent). The text on marking signs shall be readable during the products service life. An individual
+ID-marking for each withdrawable unit shall be included. Labels should (important) be located so that it is visible from the accessible installation side
+and, if possible, above or to the right of the component in question. Labels should (important)
+not be placed on the component, owing to the risk that the label will disappear when the
+component is replaced. 2.3.14 Wiring and connections
+
+Paragraf nr105:
+2.3.14.1 Internal wiring
+
+Paragraf nr106:
+All internal wiring in auxiliary current paths shall meet at least fire rating class F4 (see
+PROT-111).
+
+Paragraf nr107:
+Insulation material shall be suitable for the specified environment and may not emit corrosive
+or otherwise harmful substances at temperatures up to the highest specified temperature. Conductors shall normally consist of multi-stranded or extra multi-stranded leads. All internal wiring shall be marked at both ends with wire number and the Supplier shall
+specify its marking system in the proposal. Connections shall be suited for the wiring and connections employed. Terminal sockets shall
+be used. Conductor routing shall be performed with sufficient excess length so that the stripped leads
+may be cut and connected again. Stripping damage, such as nicks and cut strands may not occur. 1 2.3.14.2 External connections
+
+Paragraf nr108:
+Connections to auxiliary power supply and process interfaces shall be individually provided
+with test plug sockets and be possible to disconnect. Terminal blocks and connectors shall be
+marked with individual designations by the Supplier according to a system approved by the
+Purchaser.
+
+Paragraf nr109:
+Connection terminals shall be arranged in groups. An unobstructed distance of at least 100
+mm should (important) be provided between rows of terminal blocks, in order to provide
+space for easy connection of external cables and so that labels/marking are easy to read. See
+also section 2.3.6. Terminal blocks shall be disconnectable, including circuits for connection of current
+transformer secondary's.
+
+Paragraf nr110:
+2.3.14.3 Unprotected wiring
+
+Paragraf nr111:
+Unprotected wiring means unprotected branches from voltage and current transformers.
+Wiring of this sort shall be installed separately and be provided with mechanically reinforced
+insulation. The Supplier should (very) specify the installation method.
+
+Paragraf nr112:
+2.3.15 HSI/MIMIC
+
+Paragraf nr113:
+The equipment shall have a comprehensive, unambiguous mimic system which clearly
+indicates the position of the switching devices and a simple single-line diagram
+representation.
+
+Paragraf nr114:
+The mimic should (very) have mechanical position indication for feeder earthing switch. The mimic should (very) have mechanical position indicator for withdrawable part. For circuit breaker panels the main mechanism spring condition should (important) be
+indicated. All control and indicator elements should (important) be at an ergonomically favorable
+height. 2.3.16 Voltage transformers
+
+Paragraf nr115:
+VT's shall comply with the standard IEC 60044-2. Circuit VT's shall be mounted within the
+panel housing.
+
+Paragraf nr116:
+Busbar VT's shall be housed in a dedicated panel for busbar related metering. However, as
+three separate circuits for voltage measurement are required for the metering cubicles in
+switchgears feeding RCP-motors it is allowed to place busbar VTs in other cubicles as well if
+necessary, preferably the panels for the RCP-motors. The transformer wiring for the VTs in the metering cubicles and on the cable side of
+incoming breakers shall be Y/Y/ Open D. The open delta winding should (important) have a
+damping resistance if required. The size shall be decided in agreement with the Purchaser. The VTs shall have the following ratings and specifications: Metering VT and Incoming
+feeder VT (Y/y/open delta)
+12 kV
+28 kV
+
+Paragraf nr117:
+SSPS protection VTs (R-T) Rated voltage
+Power frequency withstand
+voltage
+Lightning impulse voltage
+Transformer wiring
+Primary winding
+
+Paragraf nr118:
+12kV
+28 kV 75 kV
+Y/y/d
+6600/ 3
+V 7 20
+
+Paragraf nr119:
+Secondary winding
+Voltage factor
+
+Paragraf nr120:
+110
+1,2 / continuously a-n:110/ 3;da-dn:110/3
+V
+1,2 / continuously
+1,9 / 8 hours (minimum,
+preferably continuous)
+Metering cubicle:a-n cl 0,2
+Incoming feeder:a-n cl 0,5
+Open delta:da-dn:3P
+a-n: 50 VA, da-dn:90 VA
+100 Va per secondary winding Accuracy class c Rated burden:
+Thermal rating 5 2
+
+Paragraf nr121:
+The Cable CT's should (very) be housed inside the panel housing.
+
+Paragraf nr122:
+The Cable CT's shall have the following ratings: Cable current CTs
+Ratio
+Thermal overload factor
+Rated burden
+Accuracy class
+
+Paragraf nr123:
+100/1 A
+1
+2,5 VA
+5P10 2.3.18 Current transformers
+
+Paragraf nr124:
+Current transformers shall comply with IEC 61869.
+
+Paragraf nr125:
+The CT's should (important) be housed inside the panel housing.
+
+Paragraf nr126:
+Current transformers shall have the following ratings:
+
+Paragraf nr127:
+Current Transformers
+Rated short-time withstand current
+Rated peak withstand current
+Rated operating voltage
+Thermal overload factor:
+Rated burden:
+Accuracy classes/Ratings:
+
+Paragraf nr128:
+Protection Metering
+50 kA, 1 s
+125kA
+12 kV
+2 X I pr (200%)
+5 VA
+FS5 10 VA*
+Primary rated current
+=300 A; 5P10
+Primary rated current
+>300;5P20* Cl 0,2 should
+(important) be
+offered as an option. The ratings above are based on assumed Rct values and the values of Rct may not deviate
+substantially from assumed values. The Supplier shall specify normal interval regarding Rct
+for the proposed CTs in order for the Purchaser to validate the calculations.
+
+Paragraf nr129:
+2.4 D
+
+Paragraf nr130:
+The suoolier shall Provide detailed drawings with sufficient information, clearly presented, to
+determine compliance with drawings and specifications.
+
+Paragraf nr131:
+21 Prior to fabrication of switchgear, the supplier shall submit four copies of the following data
+for approval: a.
+b. Complete electrical ratings
+Circuit breaker sizes
+Interrupting ratings
+Elementary and interconnection wiring diagrams
+Single line and three line diagrams
+Dimensioned exterior views of the switchgear.
+Floor plan of the switchgear.
+Foundation plan for the switchgear. c.
+d. e g 2 F
+
+Paragraf nr132:
+In attachment 2 - type circuits for the switchgears can be found. These are indicative of the
+design of the functions and number of auxiliary contacts, L/C switches etc. for the different
+panels/switchgear.
+
+Paragraf nr133:
+The final design shall be reviewed and decided in co-operation with the Supplier to ensure
+that the desired functionality is obtained, i.e the type circuits in attachment 2 are not to be
+considered as the final design. 2.6 O
+
+Paragraf nr134:
+All withdrawable units should be able to be easily tested and inspected.
+
+Paragraf nr135:
+The Supplier should (important) describe if there are any limitations to exchanging
+components or performing maintenance if the panels are mounted against a wall (access to
+CTs for example). It shall be possible to perform cable test or testing of feeded motors insulation without
+isolating the busbar. 2.6.1 S
+
+Paragraf nr136:
+The service intervals should (less) be at least 10 years.
+
+Paragraf nr137:
+2.6.2 T
+
+Paragraf nr138:
+The Supplier shall specify normal accessories required for operation and testing of the
+switchgear and switching devices, and which accordingly shall be included in the delivery.
+Finished reading ... file is closed.
+
+C:\Users\A504133\source\repos\DigitaltKladdpapperReadingPDFs\bin\Debug\netcoreapp3.1\DigitaltKladdpapperReadingPDFs.exe (process 13880) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

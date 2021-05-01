@@ -1,0 +1,6 @@
+Jeff, Bezos, www.yahoo.com
+Bill, Gates, www.microsoft.com
+Andy, Grove, www.intel.com
+Sheryl, Sandberg, www.facebook.com
+Steve, Jobs, www.apple.com
+Shad, Sluiter, www.shadsluiter.com
